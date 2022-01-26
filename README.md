@@ -82,6 +82,12 @@ passing by the reference does change its value of the argument
 
 ![image](https://user-images.githubusercontent.com/88512549/151243281-ddb69d65-64e8-4697-8645-25d12975667d.png)
 
+output:
+
+![image](https://user-images.githubusercontent.com/88512549/151260782-194ffa0c-a78f-4242-bca1-2d6949b04f5f.png)
+
+x has now been changed by the function
+
 ## function prototypes
   - Function prototyping is one very useful feature of C++ function. 
   - A function prototype describes the function interface to the compiler by giving details such as the number and type of arguments and the type of return values.
