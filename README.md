@@ -78,7 +78,7 @@ output:
 
 ## pass by reference
 passing by the reference does change its value of the argument
-### using the character '&' before the argument variable, will send the reference and will be affected if the function (method) changes its 
+### using the character '&' before the argument variable, will send the reference affecting the value of the argument if modified in the function
 
 ![image](https://user-images.githubusercontent.com/88512549/151243281-ddb69d65-64e8-4697-8645-25d12975667d.png)
 
