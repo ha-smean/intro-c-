@@ -63,6 +63,7 @@ we can decalre many variables at a time
 - the body of the function (code to be executed)
 
 example: 
+
 ![image](https://user-images.githubusercontent.com/88512549/151240983-2bb7027d-d666-4a7d-94b9-d94411d5100c.png)
 
 ## pass by copy
