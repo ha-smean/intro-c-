@@ -22,8 +22,10 @@ int main() {
 ## c++ has 3 data types
   - primative types - like double, int, bool, char, string
   
+  - pointers - variable that points to a data type (variable that stores the memory address as its value)
+  
   - classes - to create a class use the 'class' keyword
-  ```Ruby
+  ```C++
   class MyClass {      // The class
   public:             // Access specifier
     int myNum;        // Attribute (int variable)
@@ -31,7 +33,7 @@ int main() {
   };
   ```
   
-  - pointers - variable that points to a data type (variable that stores the memory address as its value)
+
   
 ## identifiers 
   - in c++, indentifiers can be of any legth
